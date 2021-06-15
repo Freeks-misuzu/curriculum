@@ -23,7 +23,7 @@
              */
              String[] strArray ={"りんご","もも","ぶどう"};
             // ④ ③で作成した配列の2番目の要素を出力しなさい。
-            System.out.println(strArray[2]);
+            System.out.println(strArray[1]);
             /* ⑤下記の処理について、何をしているのかコメントを記入してください。
              *  [10,20,30,40,50 を要素の値(初期値)とする、要素5の
              * intArrayという名前のint型配列を宣言]
